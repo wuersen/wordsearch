@@ -109,3 +109,15 @@ Here are some suggestions in order of priority! And to help you challenge yourse
 ## Setup
 
 You can choose to use the existing examples as a base. The examples are built in JavaScript. You can setup one in a seperate language using the above table data but if you can, choose a language you arent familar with to challenege yourself.
+
+First, clone the repo:
+
+```
+git clone https://github.com/simonschwartz/wordsearch.git
+```
+
+Then create a new branch using your name:
+
+```
+git checkout -b fred-blogs
+```
