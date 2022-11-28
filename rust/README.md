@@ -7,3 +7,9 @@ Update `src/main.rs` and run:
 ```
 cargo run
 ```
+
+Test your code:
+
+```
+cargo test
+```
